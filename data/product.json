@@ -1,0 +1,22 @@
+[{
+    "id":1,
+    "name":"Iphone 16 Pro Max",
+    "category": "1400$",
+    "stock": "yes",
+    "image" : "https://th.bing.com/th/id/OIP.mjCvNIwc3El7CoEwRpfCpQHaHa?w=176&h=180&c=7&r=0&o=5&pid=1.7",
+    "description" : "Lorem Ispum test"
+},{
+    "id":2,
+    "name":"Samsumg Note 24",
+    "category": "2700$",
+    "stock": "yes",
+    "image" : "https://th.bing.com/th/id/OIP.nywBUIjONUq7YPcqF6r5uAHaEJ?w=296&h=180&c=7&r=0&o=5&pid=1.7",
+    "description" : "Lorem Ispum test"
+},{
+    "id":3,
+    "name":"Iphone 13 Pro Max",
+    "category": "659$",
+    "stock": "yes",
+    "image" : "https://th.bing.com/th/id/OIP.ppA0WRXMCreNsdDKFCrHbwHaJk?w=140&h=181&c=7&r=0&o=5&pid=1.7",
+    "description" : "Lorem Ispum test"
+}]
